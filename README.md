@@ -1,4 +1,20 @@
 
+home page 
+
+<img width="1906" height="916" alt="image" src="https://github.com/user-attachments/assets/c04c6729-df18-4445-bf56-7c2c3f2a1748" />
+
+product details page 
+
+<img width="1901" height="973" alt="image" src="https://github.com/user-attachments/assets/a4918d54-1da9-4416-bf90-d49409e281b7" />
+
+cart page 
+<img width="1797" height="906" alt="image" src="https://github.com/user-attachments/assets/f726e55d-deac-46dc-a0a9-541b2ccf5dbb" />
+payment page 
+<img width="1811" height="852" alt="image" src="https://github.com/user-attachments/assets/56127e30-5a54-414c-8c2c-587eb49cf17c" />
+
+order history 
+<img width="1897" height="920" alt="image" src="https://github.com/user-attachments/assets/3bf616f1-9e3b-4d6a-ad6a-d51f107389fa" />
+
 <h2>This is an Admin Dashboard</h2>
 <img width="1900" height="917" alt="image" src="https://github.com/user-attachments/assets/f84959ee-9cfa-4c04-8d0b-4b078199f0a3" />
 
